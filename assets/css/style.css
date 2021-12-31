@@ -28,7 +28,7 @@ body {
   background: #fff;
   padding: 20px;
   border-radius: 5px;
-  box-shadow: rgba(0, 0, 0, 0.16);
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
   display: flex;
   flex-direction: column;
   gap: 10px;
@@ -87,6 +87,6 @@ body {
 }
 
 .encabezado a svg {
- width: 26px;
- height: 26px;
+  width: 26px;
+  height: 26px;
 }
